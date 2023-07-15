@@ -1,4 +1,8 @@
 ## Project Description/Summary
+hello everyone 
+welcomhello everyone
+welcome you here
+e you here
 
 This project involves wiring up a simple calculator.
 
